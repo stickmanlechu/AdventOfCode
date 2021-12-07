@@ -664,16 +664,13 @@ let numbers = input.split(separator: ",")
     .map(String.init)
     .map { Int($0)! }
 
-var boards = [BingoBoard]()
-var i = 0
 let rows = boardsInput.split(separator: "\n")
     .map(String.init)
-while i+4 < rows.endIndex {
-    let boardRows = Array(rows[i...i+4])
-    let board = BingoBoard(boardRows)
-    boards.append(board)
-    i += 5
-}
+
+let boards = rows
+    .indices
+    .filter { ($0 + 1) % 5 == 0 }
+    .map { BingoBoard(Array(rows[$0-4...$0])) }
 
 func findFirst(boards: [BingoBoard], numbers: [Int]) -> Int {
     for number in numbers {
