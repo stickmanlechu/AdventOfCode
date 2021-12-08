@@ -13,3 +13,4 @@ My solutions to problems from the [Advent of Code 2021](https://adventofcode.com
 | [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [:arrow_right:](day5.swift) | :star::star: |
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | [:arrow_right:](day6.swift) | :star::star: |
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | [:arrow_right:](day7.swift) | :star::star: |
+| [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | [:arrow_right:](day8.swift) | :star::star: |
