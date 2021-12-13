@@ -20,7 +20,6 @@ func paths(in graph: Graph, node: String, alreadyVisited: [String]) -> [String] 
 
 func paths2(in graph: Graph, node: String, alreadyVisited: [String], twoTimesNode: String?) -> [String] {
     guard node != "end" else { return [node] }
-    guard !(node == "start" && alreadyVisited.contains(node)) else { return [] }
     guard !(node.isSmallCave && alreadyVisited.contains(node)) else { return [] }
     return graph[node]!.flatMap { next in
         paths2(in: graph, node: next, alreadyVisited: alreadyVisited + [node], twoTimesNode: twoTimesNode).map({ "\(node)-\($0)" })
@@ -57,7 +56,8 @@ input
 
 let start = CFAbsoluteTimeGetCurrent()
 
-print(numberOfUniquePaths2(in: graph))
+print(numberOfUniquePaths(in: graph))
+//print(numberOfUniquePaths2(in: graph))
 
 let diff = CFAbsoluteTimeGetCurrent() - start
 print("\(#function) Took \(diff) seconds")
