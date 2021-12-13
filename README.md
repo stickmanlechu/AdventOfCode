@@ -17,4 +17,5 @@ My solutions to problems from the [Advent of Code 2021](https://adventofcode.com
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | [:arrow_right:](day9.swift) | :star::star: |
 | [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | [:arrow_right:](day10.swift) | :star::star: |
 | [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11) | [:arrow_right:](day11.swift) | :star::star: |
-| [Day 11: Passage Pathing](https://adventofcode.com/2021/day/12) | [:arrow_right:](day12.swift) | :star::star: |
+| [Day 12: Passage Pathing](https://adventofcode.com/2021/day/12) | [:arrow_right:](day12.swift) | :star::star: |
+| [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13) | [:arrow_right:](day13.swift) | :star::star: |
