@@ -21,3 +21,4 @@ My solutions to problems from the [Advent of Code 2021](https://adventofcode.com
 | [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13) | [:arrow_right:](day13.swift) | :star::star: |
 | [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14) | [:arrow_right:](day14.swift) | :star::star: |
 | [Day 15: Chiton](https://adventofcode.com/2021/day/15) | [:arrow_right:](day15.swift) | :star::star: |
+| [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | [:arrow_right:](day16.swift) | :star::star: |
