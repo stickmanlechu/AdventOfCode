@@ -23,4 +23,5 @@ My solutions to problems from the [Advent of Code 2021](https://adventofcode.com
 | [Day 15: Chiton](https://adventofcode.com/2021/day/15) | [:arrow_right:](day15.swift) | :star::star: |
 | [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | [:arrow_right:](day16.swift) | :star::star: |
 | [Day 17: Packet Decoder](https://adventofcode.com/2021/day/17) | [:arrow_right:](day17.swift) | :star::star: |
-| [Day 18: Packet Decoder](https://adventofcode.com/2021/day/18) | [:arrow_right:](day18.swift) | :star::star: |
+| [Day 18: Snailfish](https://adventofcode.com/2021/day/18) | [:arrow_right:](day18.swift) | :star::star: |
+| [Day 19: Beacon Scanner](https://adventofcode.com/2021/day/19) | [:arrow_right:](day19.swift) | :star::star: |
