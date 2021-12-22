@@ -27,3 +27,4 @@ My solutions to problems from the [Advent of Code 2021](https://adventofcode.com
 | [Day 19: Beacon Scanner](https://adventofcode.com/2021/day/19) | [:arrow_right:](day19.swift) | :star::star: |
 | [Day 20: Trench Map](https://adventofcode.com/2021/day/20) | [:arrow_right:](day20.swift) | :star::star: |
 | [Day 21: Dirac Dice](https://adventofcode.com/2021/day/21) | [:arrow_right:](day21.swift) | :star::star: |
+| [Day 22: Reactor Reboot](https://adventofcode.com/2021/day/22) | [:arrow_right:](day22.swift) | :star::star: |
