@@ -30,3 +30,4 @@ My solutions to problems from the [Advent of Code 2021](https://adventofcode.com
 | [Day 22: Reactor Reboot](https://adventofcode.com/2021/day/22) | [:arrow_right:](day22.swift) | :star::star: |
 | [Day 23: Amphipod](https://adventofcode.com/2021/day/23) | [:arrow_right:](day23.swift) | :star::star: |
 | [Day 24: Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) | [:arrow_right:](day24.swift) | :star::star: |
+| [Day 25: Sea Cucumber](https://adventofcode.com/2021/day/25) | [:arrow_right:](day25.swift) | :star::star: |
