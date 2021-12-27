@@ -1,5 +1,3 @@
-// https://adventofcode.com/2021/day/1
-
 import Foundation
 
 let input = try! String(contentsOf: URL(fileURLWithPath: "input/day1.txt"), encoding: .utf8)
