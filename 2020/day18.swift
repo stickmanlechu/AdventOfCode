@@ -78,8 +78,6 @@ func parse(_ line: String) -> Expression {
     return Expression.expressions(stack as! [Expression])
 }
 
-let input = try! String(contentsOf: URL(fileURLWithPath: "input/day18.txt"), encoding: .utf8)
-
 func solve(_ input: String, addingPrecedence: Bool = false) -> Int {
     input
         .trimmingCharacters(in: .whitespacesAndNewlines)
@@ -90,6 +88,8 @@ func solve(_ input: String, addingPrecedence: Bool = false) -> Int {
         }
         .reduce(0, +)
 }
+
+let input = try! String(contentsOf: URL(fileURLWithPath: "input/day18.txt"), encoding: .utf8)
 
 let start = CFAbsoluteTimeGetCurrent()
 
