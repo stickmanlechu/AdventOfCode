@@ -56,7 +56,7 @@ func solve2() {
             singleCounts[char, default: 0] += counts[pair]!
         }
     }
-    // first and last character where counted only once,
+    // first and last character were counted only once,
     // thus adding those here, so that every character was counted twice
     singleCounts[template.first!, default: 0] += 1
     singleCounts[template.last!, default: 0] += 1
