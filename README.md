@@ -11,3 +11,4 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [:arrow_right:](2022/day3.swift) | :star::star: |
 | [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4) | [:arrow_right:](2022/day4.swift) | :star::star: |
 | [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5) | [:arrow_right:](2022/day5.swift) | :star::star: |
+| [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6) | [:arrow_right:](2022/day6.swift) | :star::star: |
