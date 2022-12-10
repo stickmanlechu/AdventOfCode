@@ -15,3 +15,4 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) | [:arrow_right:](2022/day7.swift) | :star::star: |
 | [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) | [:arrow_right:](2022/day8.swift) | :star::star: |
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) | [:arrow_right:](2022/day9.swift) | :star::star: |
+| [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [:arrow_right:](2022/day10.swift) | :star::star: |
