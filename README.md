@@ -17,3 +17,4 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) | [:arrow_right:](2022/day9.swift) | :star::star: |
 | [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [:arrow_right:](2022/day10.swift) | :star::star: |
 | [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | [:arrow_right:](2022/day11.swift) | :star::star: |
+| [Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [:arrow_right:](2022/day12.swift) | :star::star: |
