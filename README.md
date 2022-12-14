@@ -19,3 +19,4 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | [:arrow_right:](2022/day11.swift) | :star::star: |
 | [Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [:arrow_right:](2022/day12.swift) | :star::star: |
 | [Day 13: Distress Signal](https://adventofcode.com/2022/day/13) | [:arrow_right:](2022/day13.swift) | :star::star: |
+| [Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14) | [:arrow_right:](2022/day14.swift) | :star::star: |
