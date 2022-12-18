@@ -22,3 +22,5 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14) | [:arrow_right:](2022/day14.swift) | :star::star: |
 | [Day 15: Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [:arrow_right:](2022/day15.swift) | :star::star: |
 | [Day 16: Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [:arrow_right:](2022/day16.swift) | :star::star: |
+| [Day 17: Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [:arrow_right:](2022/day17.swift) | :star::star: |
+| [Day 18: Boiling Boulders](https://adventofcode.com/2022/day/18) | [:arrow_right:](2022/day18.swift) | :star::star: |
