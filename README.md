@@ -25,3 +25,4 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 17: Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [:arrow_right:](2022/day17.swift) | :star::star: |
 | [Day 18: Boiling Boulders](https://adventofcode.com/2022/day/18) | [:arrow_right:](2022/day18.swift) | :star::star: |
 | [Day 19: Not Enough Minerals](https://adventofcode.com/2022/day/19) | [:arrow_right:](2022/day19.swift) | :star::star: |
+| [Day 20: Grove Positioning System](https://adventofcode.com/2022/day/20) | [:arrow_right:](2022/day20.swift) | :star::star: |
