@@ -29,3 +29,4 @@ My solutions to problems from the [Advent of Code 2022](https://adventofcode.com
 | [Day 21: Monkey Math](https://adventofcode.com/2022/day/21) | [:arrow_right:](2022/day21.swift) | :star::star: |
 | [Day 22: Monkey Map](https://adventofcode.com/2022/day/22) | [:arrow_right:](2022/day22.swift) | :star::star: |
 | [Day 23: Unstable Diffusion](https://adventofcode.com/2022/day/23) | [:arrow_right:](2022/day23.swift) | :star::star: |
+| [Day 24: Blizzard Basin](https://adventofcode.com/2022/day/24) | [:arrow_right:](2022/day24.swift) | :star::star: |
