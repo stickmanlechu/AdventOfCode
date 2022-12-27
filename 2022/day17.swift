@@ -1,7 +1,6 @@
 import Foundation
 
 let input = try! String(contentsOf: URL(fileURLWithPath: "input/day17.txt"), encoding: .utf8)
-//let input = ">>><<><>><<<>><>>><<<>>><<<><<<>><>><<>>"
 
 let chamberLeft = 0
 let chamberRight = 7
