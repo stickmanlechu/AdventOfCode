@@ -10,3 +10,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | [:arrow_right:](2023/day2.swift) | :star::star: |
 | [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | [:arrow_right:](2023/day3.swift) | :star::star: |
 | [Day 4: Scratchcards](https://adventofcode.com/2023/day/4) | [:arrow_right:](2023/day4.swift) | :star::star: |
+| [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [:arrow_right:](2023/day5.swift) | :star::star: |
