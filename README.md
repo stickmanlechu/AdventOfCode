@@ -13,3 +13,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [:arrow_right:](2023/day5.swift) | :star::star: |
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | [:arrow_right:](2023/day6.swift) | :star::star: |
 | [Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | [:arrow_right:](2023/day7.swift) | :star::star: |
+| [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | [:arrow_right:](2023/day8.swift) | :star::star: |
