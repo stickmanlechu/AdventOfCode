@@ -14,3 +14,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | [:arrow_right:](2023/day6.swift) | :star::star: |
 | [Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | [:arrow_right:](2023/day7.swift) | :star::star: |
 | [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | [:arrow_right:](2023/day8.swift) | :star::star: |
+| [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | [:arrow_right:](2023/day9.swift) | :star::star: |
