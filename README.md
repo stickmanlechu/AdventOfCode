@@ -17,3 +17,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | [:arrow_right:](2023/day9.swift) | :star::star: |
 | [Day 10: Pipe Maze](https://adventofcode.com/2023/day/10) | [:arrow_right:](2023/day10.swift) | :star::star: |
 | [Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) | [:arrow_right:](2023/day11.swift) | :star::star: |
+| [Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | [:arrow_right:](2023/day12.swift) | :star::star: |
