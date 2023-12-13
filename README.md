@@ -18,3 +18,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 10: Pipe Maze](https://adventofcode.com/2023/day/10) | [:arrow_right:](2023/day10.swift) | :star::star: |
 | [Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) | [:arrow_right:](2023/day11.swift) | :star::star: |
 | [Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | [:arrow_right:](2023/day12.swift) | :star::star: |
+| [Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | [:arrow_right:](2023/day13.swift) | :star::star: |
