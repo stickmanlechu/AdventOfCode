@@ -20,3 +20,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | [:arrow_right:](2023/day12.swift) | :star::star: |
 | [Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | [:arrow_right:](2023/day13.swift) | :star::star: |
 | [Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | [:arrow_right:](2023/day14.swift) | :star::star: |
+| [Day 15: Lens Library](https://adventofcode.com/2023/day/15) | [:arrow_right:](2023/day15.swift) | :star::star: |
