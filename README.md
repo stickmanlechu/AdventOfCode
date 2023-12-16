@@ -21,3 +21,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | [:arrow_right:](2023/day13.swift) | :star::star: |
 | [Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | [:arrow_right:](2023/day14.swift) | :star::star: |
 | [Day 15: Lens Library](https://adventofcode.com/2023/day/15) | [:arrow_right:](2023/day15.swift) | :star::star: |
+| [Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | [:arrow_right:](2023/day16.swift) | :star::star: |
