@@ -24,3 +24,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | [:arrow_right:](2023/day16.swift) | :star::star: |
 | [Day 17: Clumsy Crucible](https://adventofcode.com/2023/day/17) | [:arrow_right:](2023/day17.swift) | :star::star: |
 | [Day 18: Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | [:arrow_right:](2023/day18.swift) | :star::star: |
+| [Day 19: Aplenty](https://adventofcode.com/2023/day/19) | [:arrow_right:](2023/day19.swift) | :star::star: |
