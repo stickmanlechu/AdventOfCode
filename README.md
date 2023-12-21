@@ -26,3 +26,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 18: Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | [:arrow_right:](2023/day18.swift) | :star::star: |
 | [Day 19: Aplenty](https://adventofcode.com/2023/day/19) | [:arrow_right:](2023/day19.swift) | :star::star: |
 | [Day 20: Pulse Propagation](https://adventofcode.com/2023/day/20) | [:arrow_right:](2023/day20.swift) | :star::star: |
+| [Day 21: Step Counter](https://adventofcode.com/2023/day/21) | [:arrow_right:](2023/day21.swift) | :star: |
