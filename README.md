@@ -29,3 +29,4 @@ My solutions to problems from the [Advent of Code 2023](https://adventofcode.com
 | [Day 21: Step Counter](https://adventofcode.com/2023/day/21) | [:arrow_right:](2023/day21.swift) | :star: |
 | [Day 22: Sand Slabs](https://adventofcode.com/2023/day/22) | [:arrow_right:](2023/day22.swift) | :star::star: |
 | [Day 23: A Long Walk](https://adventofcode.com/2023/day/23) | [:arrow_right:](2023/day23.swift) | :star::star: |
+| [Day 24: A Long Walk](https://adventofcode.com/2023/day/24) | [:arrow_right:](2023/day24.swift) | :star: |
